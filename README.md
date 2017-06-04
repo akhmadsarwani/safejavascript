@@ -1,0 +1,2 @@
+# safejavascript
+safejavascript
